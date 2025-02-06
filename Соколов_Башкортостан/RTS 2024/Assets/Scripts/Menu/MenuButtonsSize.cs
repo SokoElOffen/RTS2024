@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MenuButtonsSize : MonoBehaviour
+public class MenuButtonsSize
 {
     [SerializeField] private GameObject[] menuButtons = new GameObject[0];
     void SetSize(float width, float height)

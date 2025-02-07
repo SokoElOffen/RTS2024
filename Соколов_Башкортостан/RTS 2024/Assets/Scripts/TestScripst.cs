@@ -28,9 +28,9 @@ public class TestScripst : MonoBehaviour
        {
            MoveTo();
        }
-       if (triger2)
+       if (Input.GetKeyDown("1") && triger2)
        {
-            Grass.AddData();
+           Grass.BuildNavMesh();
        }
     }
 

@@ -157,7 +157,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   object1: {fileID: 588268820}
-  triger1: 0
+  triger1: 1
   triger2: 0
   Delta: {x: 0, y: 0, z: 0}
 --- !u!195 &175852211
@@ -1960,7 +1960,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   object1: {fileID: 588268820}
-  triger1: 0
+  triger1: 1
   triger2: 0
   Delta: {x: 0, y: 0, z: 0}
 --- !u!195 &1328402998
@@ -2222,7 +2222,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1594590102
 MonoBehaviour:
   m_ObjectHideFlags: 0

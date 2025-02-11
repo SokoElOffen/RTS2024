@@ -358,6 +358,7 @@
 -analyzer:"D:/Unity/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Menu/MenuButtonsSize.cs"
 "Assets/Scripts/Menu/ShowHelp.cs"
+"Assets/Scripts/MouseOnWorld.cs"
 "Assets/Scripts/TestScripst.cs"
 -langversion:9.0
 
